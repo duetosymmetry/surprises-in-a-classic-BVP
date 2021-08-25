@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/duetosymmetry/surprises-in-a-classic-BVP/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/duetosymmetry/surprises-in-a-classic-BVP/after-arXiv-submission?filepath=Surprises%20in%20a%20classic%20boundary-layer%20problem%20%E2%80%94%20public.ipynb)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5261381.svg)](https://doi.org/10.5281/zenodo.5261381)
 
 # Surprises in a classic boundary-layer problem
